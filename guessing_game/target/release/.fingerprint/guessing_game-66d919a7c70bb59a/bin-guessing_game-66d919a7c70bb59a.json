@@ -1,0 +1,1 @@
+{"rustc":2301133102454374455,"features":"[]","target":17534327686062124100,"profile":8410117760005530537,"deps":[["rand v0.3.18",10992074868137561894]],"local":[{"MtimeBased":[[1511098227,0],"/goinfre/khansman/Projects/rust_tutorial/guessing_game/target/release/.fingerprint/guessing_game-66d919a7c70bb59a/dep-bin-guessing_game-66d919a7c70bb59a"]}],"rustflags":[]}
